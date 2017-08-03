@@ -15,7 +15,7 @@ A métrica "Distanciamento" de um dado vértice V<sub>k</sub> é a soma de todas
 
 E a distância entre o vértice V<sub>0</sub> e o vértice V<sub>1</sub> é definida como o menor caminho entre V<sub>0</sub> e V<sub>1</sub>.
 
-O desafio é classificar os vértices em um determinado grafo (fornecido no edges.dat) pela sua "Proximidade".
+O desafio é classificar _todos_ os vértices em um determinado grafo (fornecido no edges.dat) pela sua "Proximidade".
 Cada linha do arquivo consiste em dois nomes de vértice separados por um único espaço, o que representa uma ligação entre esses dois vértices.
 
 
