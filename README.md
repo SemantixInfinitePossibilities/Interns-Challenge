@@ -38,6 +38,6 @@ Copiar código de outras pessoas também poderá incorrer em penalização; de a
 
 **Lembre-se de fazer commits intermediários, _enquanto estiver desenvolvendo sua solução_; estamos interessados na evolução do código.**
 
-O código entregue no GitHub deverá ser executado sem alterações, e independente da interferência dos avaliadores. A única exceção é a instalação de dependências.
+O código entregue no GitHub deverá ser executado sem alterações, e _independente_ da interferência dos avaliadores. A única exceção é a instalação de dependências.
 
 O prazo de entrega é de 4 dias.
